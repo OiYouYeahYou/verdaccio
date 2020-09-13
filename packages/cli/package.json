@@ -1,6 +1,6 @@
 {
   "name": "@verdaccio/cli",
-  "version": "5.0.0-alpha.0",
+  "version": "5.0.0-alpha.1",
   "author": {
     "name": "Juan Picado",
     "email": "juanpicado19@gmail.com"
@@ -27,10 +27,10 @@
     "build": "pnpm run build:js && pnpm run build:types"
   },
   "dependencies": {
-    "@verdaccio/config": "workspace:5.0.0-alpha.0",
-    "@verdaccio/logger": "workspace:5.0.0-alpha.0",
-    "@verdaccio/node-api": "workspace:5.0.0-alpha.0",
-    "@verdaccio/utils": "workspace:5.0.0-alpha.0",
+    "@verdaccio/config": "workspace:5.0.0-alpha.1",
+    "@verdaccio/logger": "workspace:5.0.0-alpha.1",
+    "@verdaccio/node-api": "workspace:5.0.0-alpha.1",
+    "@verdaccio/utils": "workspace:5.0.0-alpha.1",
     "commander": "5.1.0",
     "envinfo": "7.4.0",
     "kleur": "3.0.3",
